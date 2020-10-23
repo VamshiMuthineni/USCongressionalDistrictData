@@ -2,7 +2,7 @@
 "stateID":"1",
 "districtings": [ {
 "districtingID":"1",
-"constraints":{"compactnessLimit":"Very Compact", "populationDifferenceLimit":"45444","minoriryGroups",["Black-American","Asian-American"]},
+"constraints":{"compactnessLimit":"Very Compact", "populationDifferenceLimit":"45444","minoriryGroups":["African-American","Asian-American"]},
 "congressionalDistrictsGeoJSON": {
 "type":"FeatureCollection",
 "description":"Congressional Districts",
@@ -33,7 +33,7 @@
 },
 {
 "districtingID":"2",
-"constraints":{"compactnessLimit":"Very Compact", "populationDifferenceLimit":"45444"},
+"constraints":{"compactnessLimit":"Very Compact", "populationDifferenceLimit":"45444","minoriryGroups":["African-American","Asian-American"]},
 "congressionalDistrictsGeoJSON": {
 "type":"FeatureCollection",
 "description":"Congressional Districts",
